@@ -27,5 +27,7 @@ public class BestContributorToSelenide {
 
         // sleep(5000);
         // screenshot("screen");
+
+        //clickFndHold() - нажать мышь и не отпускать, release()-отпустить
     }
 }
